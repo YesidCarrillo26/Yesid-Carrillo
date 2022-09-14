@@ -1,15 +1,17 @@
 # *Yesid Santiago Carrillo Almeida*
-### Edad 20 años
-### **Estudiante ingeniero de Sistemas**
-**Universidad** <https://www.escuelaing.edu.co/es/estudiantes>
-### Semestre 7
-Sobre mi:
-* Me gusta ver series y peliculas
-* En mis tiempos libres me gusta jugar algun videojuego
-1. No tengo mascotas
-2. Me encanta viajar y conocer nuevos lugares
+### **Full stack Developer**
+**University** <https://www.escuelaing.edu.co/es/estudiantes>
 
-comandos maven
+About me:
+- 🌱 I’m currently learning spring and API REST
+- 💬 Ask me about Java, Python, Sql, HTML, CSS
+- 📫 How to reach me yesid.carrillo@mail.escuelaing.edu.co
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=YesidCarrillo26&show_icons=true&count_private=true&theme=algolia)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YesidCarrillo26)](https://github.com/RichardUG/github-readme-stats) 
+
+ ## Comandos maven
 
 ```
 maven package
