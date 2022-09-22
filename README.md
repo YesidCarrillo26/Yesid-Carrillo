@@ -3,7 +3,7 @@
 **University** <https://www.escuelaing.edu.co/es/estudiantes>
 
 About me:
-- 🌱 I’m currently learning spring and API REST
+- 🌱 I’m currently learning Spring, API REST, MongoDB, Docker and AWS
 - 💬 Ask me about Java, Python, Sql, HTML, CSS
 - 📫 How to reach me yesid.carrillo@mail.escuelaing.edu.co
 
