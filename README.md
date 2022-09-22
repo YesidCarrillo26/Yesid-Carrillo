@@ -45,3 +45,5 @@ heroku open
 ```
 heroku git:remote -a <nombre>
 ```
+
+echo "Docker File" > DockerFile
