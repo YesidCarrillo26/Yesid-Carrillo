@@ -48,3 +48,30 @@ heroku git:remote -a <nombre>
 ```
 echo "Docker File" > DockerFile
 ```
+
+## Comandos Docker
+
+### Mostrar imagenes
+```
+docker images
+```
+### Mostrar contenedores
+```
+docker ps
+```
+### Mapear puertos
+```
+docker run -d -p 34002:6000 --name firstdockercontainer3 dockersparkprimer
+```
+### Construir imagen
+```
+docker build --tag dockersparkprimer .
+```
+### Guardar imagen tar
+```
+docker save primer-docker-spark > ./sparkdockerprimerimagen.tar
+```
+### Cambiar nombre repositorio
+```
+docker tag primer-docker-spark:latest dnielben/primersparkweb:latest
+```
