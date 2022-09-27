@@ -51,27 +51,39 @@ echo "Docker File" > DockerFile
 
 ## Comandos Docker
 
-### Mostrar imagenes
-```
-docker images
-```
-### Mostrar contenedores
-```
-docker ps
-```
-### Mapear puertos
-```
-docker run -d -p 34002:6000 --name firstdockercontainer3 dockersparkprimer
-```
-### Construir imagen
+#### Construir imagen
 ```
 docker build --tag dockersparkprimer .
 ```
-### Guardar imagen tar
+#### Mapear puertos
 ```
-docker save primer-docker-spark > ./sparkdockerprimerimagen.tar
+docker run -d -p 34002:6000 --name firstdockercontainer3 dockersparkprimer
 ```
-### Cambiar nombre repositorio
+#### Union instancias contenedores
+```
+docker-compose up -d
+```
+#### Referencia local docker imagen
+```
+docker tag dockersparkprimer dnielben/firstsprkwebapprepo
+```
+#### Push al repo en docker (antes hacer login)
+```
+docker push dnielben/firstsprkwebapprepo:latest
+```
+#### Cambiar nombre repositorio (opcional)
 ```
 docker tag primer-docker-spark:latest dnielben/primersparkweb:latest
+```
+## AWS
+```
+sudo yum update -y
+```
+sudo yum install docker
+```
+sudo service docker start
+```
+sudo usermod -a -G docker ec2-user
+```
+docker run -d -p 42000:6000 --name firstdockerimageaws dnielben/firstsprkwebapprepo
 ```
