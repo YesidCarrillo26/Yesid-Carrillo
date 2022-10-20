@@ -79,11 +79,16 @@ docker tag primer-docker-spark:latest dnielben/primersparkweb:latest
 ```
 sudo yum update -y
 ```
+```
 sudo yum install docker
+```
+
 ```
 sudo service docker start
 ```
+```
 sudo usermod -a -G docker ec2-user
+```
 ```
 docker run -d -p 42000:6000 --name firstdockerimageaws dnielben/firstsprkwebapprepo
 ```
