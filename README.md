@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Yesid Carrillo <img height="32px" src="https://cdn.svgporn.com/logos/git-icon.svg"> </h1>
-### **Full stack Developer**
-**University** <https://www.escuelaing.edu.co/es/estudiantes>
+
+I'm a software engineer student and i study in the university: <https://www.escuelaing.edu.co/es/estudiantes>
 
 About me:
 - 🌱 I’m currently learning Spring, API REST, MongoDB, Docker and AWS
