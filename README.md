@@ -9,7 +9,71 @@ About me:
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=YesidCarrillo26&show_icons=true&count_private=true&theme=algolia)
 
+## Github Stats:
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YesidCarrillo26&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YesidCarrillo26&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YesidCarrillo26&theme=dracula)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YesidCarrillo26)](https://github.com/RichardUG/github-readme-stats) 
+
+<h2 align="left">Knowledges </h2>
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+         <span><b>Python 3</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Git</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Java</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+      </td>
+    </tr>
+      <td width="25%" align="center">
+        <span><b>MySql</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>React</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Java Script</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
+    </tr>
+    
+  </tbody>
+</table>
+</p>
+
+<hr>
+
+
+<p align = "center">
+<a href="https://www.linkedin.com/in/yesid-santiago-carrillo-almeida">
+  <img align="center" alt="Prashant's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />
+</a>
+<a href="https://www.hackerrank.com/ivan_rincon_s">
+  <img align="center" alt="Prashant's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+</a>
+<a href="https://github.com/Rincon10">
+  <img align="center" alt="Prashant's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FYesidCarrillo26" />
+<img src="https://komarev.com/ghpvc/?username=YesidCarrillo26" alt="YesidCarrillo26" />
+
+</p>
 
  ## Comandos maven
 
