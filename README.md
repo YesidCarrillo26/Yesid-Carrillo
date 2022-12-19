@@ -100,7 +100,7 @@ About me:
 <a href="https://www.linkedin.com/in/yesid-santiago-carrillo-almeida-97b298234">
   <img align="center" alt="Prashant's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />
 </a>
-<a href="https://www.hackerrank.com/ivan_rincon_s">
+<a href="https://www.hackerrank.com/yesid_carrillo">
   <img align="center" alt="Prashant's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 <a href="https://github.com/YesidCarrillo26">
