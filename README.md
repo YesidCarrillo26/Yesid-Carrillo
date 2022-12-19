@@ -84,6 +84,10 @@ About me:
         <span>Azure</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/microsoft-azure.svg">
       </td>
+      <td width="25%" align="center">
+        <span>React</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+      </td>
     
   </tbody>
 </table>
