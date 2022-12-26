@@ -43,7 +43,7 @@ About me:
         <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
       </td>
       <td width="25%" align="center">
-        <span><b>Sql</b></span><br><br><br>
+        <span><b>PostgreSQL</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
       </td>
       <td width="25%" align="center">
