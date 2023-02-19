@@ -7,14 +7,20 @@ About me:
 - 💬 Ask me about Java, Python, Sql, HTML, CSS
 - 📫 How to reach me yesid.carrillo@mail.escuelaing.edu.co
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=YesidCarrillo26&show_icons=true&count_private=true&theme=algolia)
+## Performance:
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=YesidCarrillo26&show_icons=true&count_private=true&theme=2077)
 
 ## Github Stats:
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YesidCarrillo26&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YesidCarrillo26&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YesidCarrillo26&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YesidCarrillo26&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YesidCarrillo26&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YesidCarrillo26&theme=2077)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YesidCarrillo26)](https://github.com/RichardUG/github-readme-stats) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YesidCarrillo26&theme=2077)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YesidCarrillo26&theme=2077)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YesidCarrillo26)](https://github.com/RichardUG/github-readme-stats) -->
 
 <h2 align="left">Knowledges </h2>
 
