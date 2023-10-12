@@ -3,7 +3,7 @@
 I'm a software engineer student and i study in the university: <https://www.escuelaing.edu.co/es/estudiantes>
 
 About me:
-- 🌱 I’m currently learning Spring, API REST, MongoDB, Docker and AWS
+- 🌱 I’m currently Angular, GCP, Kubernetes
 - 💬 Ask me about Java, Python, Sql, HTML, CSS
 - 📫 How to reach me yesid.carrillo@mail.escuelaing.edu.co
 
