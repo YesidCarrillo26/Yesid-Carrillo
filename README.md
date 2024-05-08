@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Yesid Carrillo <img height="32px" src="https://cdn.svgporn.com/logos/git-icon.svg"> </h1>
 
-I'm a software engineer student and i study in the university: <https://www.escuelaing.edu.co/es/estudiantes>
+I'm a junior software engineer student, graduate from the university: <https://www.escuelaing.edu.co/es/estudiantes>
 
 About me:
 - 🌱 I’m currently Angular, GCP, Kubernetes
-- 💬 Ask me about Java, Python, Sql, HTML, CSS
+- 💬 Ask me about Javascript, Java, Python, Sql, HTML, CSS
 - 📫 How to reach me yesid.carrillo@mail.escuelaing.edu.co
 
 ## Performance:
