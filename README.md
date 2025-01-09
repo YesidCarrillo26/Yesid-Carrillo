@@ -1,13 +1,14 @@
 <h1 align="center">Hi, I'm Yesid Carrillo <img height="32px" src="https://cdn.svgporn.com/logos/git-icon.svg"> </h1>
 
-I'm a junior software engineer student, graduate from the university: <https://www.escuelaing.edu.co/es/estudiantes>
-
-About me:
-- 🌱 I’m currently Angular, GCP, Kubernetes
-- 💬 Ask me about Javascript, Java, Python, Sql, HTML, CSS
+- I'm a software engineer 📘
+- I love videogames 🕹️ and Tech Stuff 📺
 - 📫 How to reach me yesid.carrillo@mail.escuelaing.edu.co
 
-## Performance:
+At the moment:
+- 🌱 I’m currently learning Angular, GCP, Kubernetes
+- 💬 Ask me about Javascript, Java, Python, Sql, HTML, CSS
+
+<!--## Performance:
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=YesidCarrillo26&show_icons=true&count_private=true&theme=2077)
 
@@ -20,7 +21,7 @@ About me:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YesidCarrillo26&theme=2077)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YesidCarrillo26)](https://github.com/RichardUG/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YesidCarrillo26)](https://github.com/RichardUG/github-readme-stats) -->
 
 <h2 align="left">Knowledges </h2>
 
@@ -102,7 +103,7 @@ About me:
 <hr>
 
 
-<p align = "center">
+<!--<p align = "center">
 <a href="https://www.linkedin.com/in/yesid-santiago-carrillo-almeida-97b298234">
   <img align="center" alt="Prashant's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />
 </a>
@@ -118,7 +119,7 @@ About me:
 <p align="center">
 
 <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FYesidCarrillo26" />
-<img src="https://komarev.com/ghpvc/?username=YesidCarrillo26" alt="YesidCarrillo26" />
+<img src="https://komarev.com/ghpvc/?username=YesidCarrillo26" alt="YesidCarrillo26" />-->
 
 </p>
 
